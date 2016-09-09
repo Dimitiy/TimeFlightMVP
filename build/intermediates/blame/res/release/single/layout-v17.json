@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/layout-v17/preference_information_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/preference-v14/24.2.0/res/layout-v17/preference_information_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/layout-v17/preference_dropdown_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/preference-v14/24.2.0/res/layout-v17/preference_dropdown_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/layout-v17/preference_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/preference-v14/24.2.0/res/layout-v17/preference_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/layout-v17/preference_category_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/preference-v14/24.2.0/res/layout-v17/preference_category_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/layout-v17/mr_media_route_list_item.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout-v17/mr_media_route_list_item.xml"
+    }
+]

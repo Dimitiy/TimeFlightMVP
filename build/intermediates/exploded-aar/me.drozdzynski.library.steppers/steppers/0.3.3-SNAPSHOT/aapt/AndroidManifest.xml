@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="me.drozdzynski.library.steppers"
+    android:versionCode="7"
+    android:versionName="0.3.3-SNAPSHOT" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="23" />
+
+    <application />
+
+</manifest>

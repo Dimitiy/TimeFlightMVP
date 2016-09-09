@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rebeccafranks/Personal/Github/HelpTutorialExample/materialhelptutorial/src/main/res/values/attrs.xml -->
+    <eat-comment/>
+    <attr format="boolean" name="centered"/>
+    <attr format="reference" name="fillImg"/>
+    <attr format="reference" name="pageImg"/>
+    <attr format="color" name="selectedColor"/>
+    <attr format="dimension" name="strokeWidth"/>
+    <attr format="color" name="unselectedColor"/>
+    <bool name="default_circle_indicator_centered">true</bool>
+    <bool name="default_circle_indicator_snap">false</bool>
+    <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
+    <!-- From: file:/Users/rebeccafranks/Personal/Github/HelpTutorialExample/materialhelptutorial/src/main/res/values/values.xml -->
+    <eat-comment/>
+    <color name="tutorial_buttonTextColor">#ffffff</color>
+    <color name="tutorial_subtitleTextColor">#ffffff</color>
+    <color name="tutorial_titleTextColor">#ffffff</color>
+    <declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/><attr name="pageImg"/><attr name="fillImg"/></declare-styleable>
+    <declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiViewPageIndicatorStyle"/></declare-styleable>
+    <!-- From: file:/Users/rebeccafranks/Personal/Github/HelpTutorialExample/materialhelptutorial/src/main/res/values/attrs.xml -->
+    <eat-comment/>
+    <dimen name="default_circle_indicator_radius">3dp</dimen>
+    <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
+    <integer name="default_circle_indicator_orientation">0</integer>
+    <!-- From: file:/Users/rebeccafranks/Personal/Github/HelpTutorialExample/materialhelptutorial/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">help tutorial app</string>
+    <string name="tutorial_done">DONE</string>
+    <string name="tutorial_skip">SKIP</string>
+</resources>

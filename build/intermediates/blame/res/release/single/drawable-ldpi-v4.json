@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable-ldpi-v4/material_shadow_z1.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable-ldpi/material_shadow_z1.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable-ldpi-v4/material_shadow_z3.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable-ldpi/material_shadow_z3.xml"
+    }
+]

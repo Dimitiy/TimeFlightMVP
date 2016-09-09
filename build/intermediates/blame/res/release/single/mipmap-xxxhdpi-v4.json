@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xxxhdpi-v4/ic_edit.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/mipmap-xxxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xxxhdpi-v4/ic_dismiss.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/mipmap-xxxhdpi/ic_dismiss.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xxxhdpi-v4/ic_cross.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/mipmap-xxxhdpi/ic_cross.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xxxhdpi-v4/ic_search.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/mipmap-xxxhdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xxxhdpi-v4/ic_export.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/mipmap-xxxhdpi/ic_export.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xxxhdpi-v4/ic_help.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/mipmap-xxxhdpi/ic_help.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xxxhdpi-v4/ic_add.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/mipmap-xxxhdpi/ic_add.png"
+    }
+]

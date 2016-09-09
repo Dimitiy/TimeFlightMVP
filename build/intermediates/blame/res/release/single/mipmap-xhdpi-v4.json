@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_search.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/mipmap-xhdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_type_folder.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.github.angads25/filepicker/1.0.2/res/mipmap-xhdpi-v4/ic_type_folder.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_help.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/mipmap-xhdpi/ic_help.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_type_file.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.github.angads25/filepicker/1.0.2/res/mipmap-xhdpi-v4/ic_type_file.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_dismiss.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/mipmap-xhdpi/ic_dismiss.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_cross.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/mipmap-xhdpi/ic_cross.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_export.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/mipmap-xhdpi/ic_export.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_add.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/mipmap-xhdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_edit.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/mipmap-xhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_directory_parent.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.github.angads25/filepicker/1.0.2/res/mipmap-xhdpi-v4/ic_directory_parent.png"
+    }
+]

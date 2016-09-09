@@ -1,0 +1,566 @@
+[
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/bg_group_item_dragging_active_state.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/bg_group_item_dragging_active_state.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/bg_group_item_normal_state.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/bg_group_item_normal_state.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/design_fab_background.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_small_icon.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/item_selector_small_text.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/item_selector_small_text.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/material_shadow_z1_xxhdpi.9.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/material_shadow_z1_xxhdpi.9.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/material_shadow_z3_xhdpi.9.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/material_shadow_z3_xhdpi.9.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/bg_swipe_item_neutral.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/bg_swipe_item_neutral.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/ic_settings.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_skip_next.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/ic_add.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_mini_controller_gradient_light.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/bg_group_item_expanded_state.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/bg_group_item_expanded_state.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_disconnect.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/bg_swipe_item_left.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/bg_swipe_item_left.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_connecting.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/left_swipe_tutorial.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/left_swipe_tutorial.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/mr_ic_cast_light.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/item_selector_base_text.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/item_selector_base_text.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_pause_large.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/mr_ic_play_light.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_skip_next.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/material_shadow_z3_xxxhdpi.9.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/material_shadow_z3_xxxhdpi.9.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_expanded_controller_closed_caption.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/bg_group_item_dragging_state.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/bg_group_item_dragging_state.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/mr_ic_settings_light.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_mute.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_skip_prev.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/bg_group_item_swiping_state.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/bg_group_item_swiping_state.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_rewind30.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/mr_ic_play_dark.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/bg_swipe_group_item_right.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/bg_swipe_group_item_right.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_mini_controller_progress_drawable.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_forward30.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_forward10.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/navigation_empty_icon.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/preference_list_divider_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/preference-v14/24.2.0/res/drawable/preference_list_divider_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_pause.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_expanded_controller_rewind30.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/ic_close.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/ic_close.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_play_large.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/mr_ic_cast_dark.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_play.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_skip_prev.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/ic_add_mission.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/ic_add_mission.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/bg_swipe_group_item_left.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/bg_swipe_group_item_left.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/material_shadow_z1_xhdpi.9.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/material_shadow_z1_xhdpi.9.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_stop_large.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/ic_transparent_button.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/ic_transparent_button.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/list_divider_h.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/list_divider_h.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/bg_group_item_swiping_active_state.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/bg_group_item_swiping_active_state.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/ic_expand_more_to_expand_less.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/ic_expand_more_to_expand_less.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_stop.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/ic_expand_less_to_expand_more.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/ic_expand_less_to_expand_more.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/ic_cloud_upload.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/ic_cloud_upload.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/material_shadow_z1_mdpi.9.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/material_shadow_z1_mdpi.9.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/material_shadow_z1_xxxhdpi.9.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/material_shadow_z1_xxxhdpi.9.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/material_shadow_z3_mdpi.9.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/material_shadow_z3_mdpi.9.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/edit_text_style.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/edit_text_style.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/mr_ic_pause_light.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_rewind10.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_expanded_controller_forward30.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/design_ic_visibility.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_forward.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/ic_person_add.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/ic_person_add.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_forward30.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_closed_caption.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_dialog_material_background.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_rewind.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_expanded_controller_play.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/ic_expand_less.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/ic_expand_less.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/bg_swipe_item_right.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/bg_swipe_item_right.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/ic_expand_more.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/ic_expand_more.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/background_dialog.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/background_dialog.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/mr_ic_pause_dark.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/ic_cloud_download.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/ic_cloud_download.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/material_shadow_z3_xxhdpi.9.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/material_shadow_z3_xxhdpi.9.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_expanded_controller_skip_next.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_pause.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_rewind30.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/bg_item_dragging_active_state.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/bg_item_dragging_active_state.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/bg_item_normal_state.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/bg_item_normal_state.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/bg_item_dragging_state.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/bg_item_dragging_state.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/bg_item_swiping_state.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/bg_item_swiping_state.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_expanded_controller_mute.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_expanded_controller_pause.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/bg_item_swiping_active_state.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/bg_item_swiping_active_state.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/ic_export_web.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/ic_export_web.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/mr_ic_settings_dark.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_stop_live_stream.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_play.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/right_swipe_tutorial.png",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/src/main/res/drawable/right_swipe_tutorial.png"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/oldman/StudioProjects/FlightTimeMV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    }
+]
